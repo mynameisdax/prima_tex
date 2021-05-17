@@ -9,6 +9,9 @@ permalink: /
 <img src="https://raw.githubusercontent.com/mynameisdax/prima_tex/gh-pages/animation.gif" width="550" title="Screenshot">
 https://raw.githubusercontent.com/mynameisdax/prima_tex/gh-pages/animation.gif
 
+
+<img src="https://https://raw.githubusercontent.com/mynameisdax/prima_tex/gh-pages/animation.gif" width="550" title="locomotion">
+
 # Prima texture
 
 Мегатексту́ра (англ. MegaTexture) — это графическая технология, разработанная Джоном Кармаком, техническим директором id Software. Его технология повторяет технологию Clipmapping (ClipTexture), которая разработана компанией SGI и уже достаточно давно применяется для текстурирования больших ландшафтов. Отличие мегатекстуры от Clipmap состоит в том, что мегатекстура содержит маску для добавочных текстур повышенной детализации и информацию о типе материала 
