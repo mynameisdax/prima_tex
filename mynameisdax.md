@@ -1,5 +1,5 @@
 ---
-title: /mynameisdax
+title: / mynameisdax
 layout: page
 permalink: /mynameisdax
 ---
