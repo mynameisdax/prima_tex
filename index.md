@@ -10,7 +10,7 @@ permalink: /
 https://raw.githubusercontent.com/mynameisdax/prima_tex/gh-pages/animation.gif
 
 
-<img src="https://https://raw.githubusercontent.com/mynameisdax/prima_tex/gh-pages/animation.gif" width="550" title="locomotion">
+<img src="https://raw.githubusercontent.com/mynameisdax/prima_tex/gh-pages/animation.gif" width="550" title="locomotion">
 
 # Prima texture
 
