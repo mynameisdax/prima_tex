@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-![rnY9PvJ](https://user-images.githubusercontent.com/84326564/118566593-d60dfa00-b77c-11eb-822d-8fa371e5825d.gif)
+[rnY9PvJ](https://user-images.githubusercontent.com/84326564/118566593-d60dfa00-b77c-11eb-822d-8fa371e5825d.gif)
 [<img src="https://user-images.githubusercontent.com/84326564/118566593-d60dfa00-b77c-11eb-822d-8fa371e5825d.gif" width="350" title="Screenshot">]
 <img src="https://user-images.githubusercontent.com/84326564/118566593-d60dfa00-b77c-11eb-822d-8fa371e5825d.gif" width="550" title="Screenshot">
 
@@ -14,3 +14,4 @@ permalink: /
 (трава, камень и т. п.).
 
 https://ru.wikipedia.org/wiki/Мегатекстура
+![GDYSiK](https://user-images.githubusercontent.com/84326564/118567370-5bde7500-b77e-11eb-842a-ee641d4a6cb6.png)
