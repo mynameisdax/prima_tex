@@ -4,7 +4,8 @@ layout: home
 permalink: /
 ---
 
-[<img src="https://i.imgur.com/rnY9PvJ.gif">](w e l c o m e)
+![rnY9PvJ](https://user-images.githubusercontent.com/84326564/118566593-d60dfa00-b77c-11eb-822d-8fa371e5825d.gif)
+
 
 
 # Prima texture
