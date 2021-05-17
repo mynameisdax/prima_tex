@@ -1,7 +1,7 @@
 ---
-title: /Главная
+title: Главная
 layout: home
-permalink: /home
+permalink: /main
 ---
 
 # Prima texture
