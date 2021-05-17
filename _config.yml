@@ -2,10 +2,10 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
-#header_pages:
-#  - index.md
-#  - about.md
-#  - mynameisdax.md
+header_pages:
+  - index.md
+  - about.md
+  - mynameisdax.md
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
