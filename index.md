@@ -6,6 +6,7 @@ permalink: /
 
 ![rnY9PvJ](https://user-images.githubusercontent.com/84326564/118566593-d60dfa00-b77c-11eb-822d-8fa371e5825d.gif)
 [<img src="https://user-images.githubusercontent.com/84326564/118566593-d60dfa00-b77c-11eb-822d-8fa371e5825d.gif" width="350" title="Screenshot">]
+<img src="https://user-images.githubusercontent.com/84326564/118566593-d60dfa00-b77c-11eb-822d-8fa371e5825d.gif" width="550" title="Screenshot">
 
 # Prima texture
 
