@@ -1,5 +1,5 @@
 ---
-title: Главная
+title: main
 layout: home
 permalink: /
 ---
